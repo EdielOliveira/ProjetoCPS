@@ -3,9 +3,8 @@
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/ProjetoCPS?style=for-the-badge)
-<img src="http://img.shields.io/static/v1?label=&message=%20HTML&color=E34C26&style=for-the-badge">
-<img src="http://img.shields.io/static/v1?label=&message=%20CSS&color=563D7C&style=for-the-badge">
-<img src="http://img.shields.io/static/v1?label=&message=%20JavaScript&color=F7DF1E&style=for-the-badge">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 <div align="center">
